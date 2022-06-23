@@ -72,7 +72,7 @@
     "express": "^4.16.4",
     "express-jwt": "^5.3.1",
     "jest": "^24.1.0",
-    "jsdom": "^15.1.0",
+    "jsdom": "^16.5.0",
     "nuxt-class-component": "^1.2.0",
     "nuxt-edge": "^2.8.1-25994889.2fabea94",
     "puppeteer": "^1.12.2",
